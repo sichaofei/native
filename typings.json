@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-native": "registry:dt/react-native#0.42.0+20170324170601"
+  },
+  "globalDependencies": {
+    "redux": "registry:dt/redux#3.5.2+20160703092728"
+  }
+}
